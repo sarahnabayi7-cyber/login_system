@@ -1,11 +1,11 @@
-# 🔐 Flask Login System (SQLite Authentication App)
+#  Flask Login System (SQLite Authentication App)
 
 A full-stack authentication system built with Flask and SQLite.  
 This project demonstrates how user registration, login, session management, and password hashing work in a real backend system.
 
 ---
 
-## ⚡ Features
+## Features
 
 - User registration system
 - Secure login authentication
@@ -17,7 +17,7 @@ This project demonstrates how user registration, login, session management, and 
 
 ---
 
-## 🧠 What I Learned
+##  What I Learned
 
 While building this project, I learned:
 
@@ -30,7 +30,7 @@ While building this project, I learned:
 
 ---
 
-## 🏗️ Tech Stack
+##  Tech Stack
 
 - Python 
 - Flask 
@@ -109,7 +109,6 @@ Built by Sarah Nabayi
 
 Backend project focused on authentication systems and Flask fundamentals.
 
- Why this project matters
 
 This demonstrates:
 
