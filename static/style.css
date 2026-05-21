@@ -1,0 +1,18 @@
+body {
+    background: linear-gradient(to right, #0052D4, #4364F7, #6FB1FC);
+    color: white;
+    font-family: Arial;
+    text-align: center;
+    padding-top: 100px;
+}
+
+input, button {
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    border: none;
+}
+
+a {
+    color: yellow;
+}
